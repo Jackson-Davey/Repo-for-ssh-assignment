@@ -5,6 +5,9 @@ body {
 h1 {
     background-color: yellow;
     color: blue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
 }
 
 p {
